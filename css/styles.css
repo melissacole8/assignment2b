@@ -1,5 +1,18 @@
 
-#special-pic {
-    box-shadow: 3px 3px;
-    height: 60px;
+.images {
+    box-shadow: 3px 3px #dddddd;
+    height: 200px;
+}
+
+h2 {
+    font-family: sans-serif;
+    color:dimgray;
+    }
+
+p {
+    background-color:azure;
+}
+
+ul {
+    background-color:azure;
 }
