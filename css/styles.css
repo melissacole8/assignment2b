@@ -4,6 +4,11 @@
     height: 200px;
 }
 
+#aboutpics {
+    box-shadow: 2px 2px #cccccc;
+    height: 300px;
+}
+
 h2 {
     font-family: sans-serif;
     color:dimgray;
@@ -15,4 +20,5 @@ p {
 
 ul {
     background-color:azure;
+    font-size: 14pt
 }
